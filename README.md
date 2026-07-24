@@ -4,6 +4,7 @@ yt-dlpのコマンドを短縮するサービス。フォーマットを変更�
 ### 注意このリポジトリはtermux用ytdです。その他のOSは下記のリポジトリから取得してください。
 * [ytd-linux](https://github.com/Keito0122/ytd-linux/)
 * [ytd-windows](https://github.com/Keito0122/ytd-windows)
+
 ytd 仕様書
 
 1. 概要
